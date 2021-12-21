@@ -8,7 +8,7 @@ visit the site using URL https://darigay.github.io/Refactor/
 - CSS
 
 ![screenshot images]
-{ C:\Users\divya\Desktop\Divya\homework\Refactor\Horiseon -socialservicesolution.png" }
+{C:\Users\divya\Desktop\Divya\homework\Refactor\Horiseon -socialservicesolution.jpg"}
 
 ## Resources
 - W3schools.com
