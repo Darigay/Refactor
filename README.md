@@ -7,7 +7,7 @@ visit the site using URL https://darigay.github.io/Refactor/
 - HTML
 - CSS
 
-##screenshot 
+## Screenshot 
 ![Horiseon -socialservicesolution](https://user-images.githubusercontent.com/94805706/147007516-dc573d9f-609b-4758-ad48-c84515fffaf1.jpg)
 
 
