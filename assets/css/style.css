@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header/Navigational Bar Styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,7 +33,7 @@ header ul {
     font-size: 20px;
 }
 
-header ul li {
+header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -47,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,12 +58,12 @@ p {
     background-position: center;
 }
 
+/* Main Section Styling*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
 
 .search-engine-optimization , .online-reputation-management , .social-media-marketing {
     margin-bottom: 20px;
@@ -86,6 +88,7 @@ main {
     font-size: 36px;
 }
 
+/* Aside Styling*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -113,6 +116,7 @@ aside {
     max-width: 150px;
 }
 
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
